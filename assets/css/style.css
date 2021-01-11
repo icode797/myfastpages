@@ -420,7 +420,7 @@ nav { align-items: center; display: flex; font-weight: bold; justify-content: sp
 
 nav ul { list-style: none; padding: 0; }
 
-nav ul li { display: inline-block; margin: 0 0.5rem; position: relative; text-align: left; }
+nav ul li { display: inline-block; margin: 10 2rem; position: relative; text-align: left; }
 
 /* Nav Dropdown */
 nav ul li:hover ul { display: block; }
